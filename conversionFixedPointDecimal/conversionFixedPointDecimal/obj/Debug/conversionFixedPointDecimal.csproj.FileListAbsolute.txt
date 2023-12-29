@@ -1,0 +1,7 @@
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\obj\Debug\conversionFixedPointDecimal.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\obj\Debug\conversionFixedPointDecimal.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\bin\Debug\conversionFixedPointDecimal.exe.config
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\bin\Debug\conversionFixedPointDecimal.exe
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\bin\Debug\conversionFixedPointDecimal.pdb
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\obj\Debug\conversionFixedPointDecimal.exe
+C:\Users\maria\Documents\program uni\conversionFixedPointDecimal\conversionFixedPointDecimal\obj\Debug\conversionFixedPointDecimal.pdb
